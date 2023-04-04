@@ -1,5 +1,4 @@
 from PyPDF2 import PdfWriter, PdfReader
-from getpass_asterisk.getpass_asterisk import getpass_asterisk
 
 writer = PdfWriter()
 pdf = PdfReader('Python_all_in_one (2).pdf')
